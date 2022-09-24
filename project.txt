@@ -1,0 +1,23 @@
+Name: Test Project
+To Do
+ISSUE
+ID: 945
+Type: Bug in Main
+Priority: 10
+Date Created: Wed May  4 21:56:23 2022
+Date Due: Thu May  5 00:43:03 2022
+Completion Percentage: 0.300000%
+In Progress
+Work Done
+User: 
+Name: testMember123
+Type: 0
+
+USERS
+USER
+Name: jwang9228
+Type: 2
+USER
+Name: testMember123
+Type: 0
+Current User: jwang9228
